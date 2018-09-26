@@ -1,0 +1,7 @@
+{
+  "name": "taller1app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
